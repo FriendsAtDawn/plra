@@ -1,7 +1,10 @@
 ---
-title: "Informe anterior"
-date: 2022-11-01T22:50:26Z
+title: "Informe Anterior"
+date: 2022-05-28
+tags: ["nota", "tsje", "no redactado"]
 draft: false
+twitter_img: "img/large_card.png"
+description: "Summary of the post"
 ---
 
 ### Informe sobre las dos ejecuciones contra el PARTIDO LIBERAL RADICAL AUTENTICO que hasta el momento me tocó contener.

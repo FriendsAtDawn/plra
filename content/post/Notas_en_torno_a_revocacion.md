@@ -1,7 +1,10 @@
 ---
-title: "Nota 01"
-date: 2022-12-01T22:50:26Z
+title: "Nota WVPLRA-001"
+date: 2022-12-01
+tags: ["nota", "plra", "no redactado"]
 draft: false
+twitter_img: "img/large_card.png"
+description: "Informe de gestión"
 ---
 
 ### Revocación.
