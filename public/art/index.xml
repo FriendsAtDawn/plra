@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nota no enviada on PLRA</title>
+    <link>/art/</link>
+    <description>Recent content in Nota no enviada on PLRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nota no enviada</title>
+      <link>/art/algo/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/art/algo/</guid>
+      <description> Size in bytes Name  211 _index.md   211 algo.md   69651 main-4.pdf   </description>
+    </item>
+    
+  </channel>
+</rss>
